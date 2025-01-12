@@ -1,4 +1,5 @@
 # Data_Algorithm
+## Using algorithms in data analysis and prediction applications
 ![image](https://github.com/user-attachments/assets/ef76d24e-008d-4bdc-a465-0c6f0ec099e3) ![image](https://github.com/user-attachments/assets/df357910-e338-4bef-93a6-01c50e5c3ef5) ![image](https://github.com/user-attachments/assets/df357910-e338-4bef-93a6-01c50e5c3ef5)
 
 ## Algorithms used:
