@@ -4,7 +4,9 @@
 ![image](https://github.com/user-attachments/assets/a8819c67-ed4a-4473-b0c8-ddda1a3a88cf)
 ## Algorithms used:
 Clustering (KMeans, Mean-Shift, DBScan)
-Association rules (basic)
+
+Association rules (basic,advanced)
+
 Classification (KNN, Native Bayer, Decision Tree)
 ## Classification Algorithm
 Purpose: Predict and classify data into different groups or labels.
