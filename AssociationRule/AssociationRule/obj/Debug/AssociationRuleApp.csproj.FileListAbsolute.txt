@@ -1,0 +1,33 @@
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.AssemblyReference.cache
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.AssciationRule.resources
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.Properties.Resources.resources
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.GenerateResource.cache
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.CoreCompileInputs.cache
+E:\KPDL\AssociationRule\AssociationRule\bin\Debug\AssociationRule.exe.config
+E:\KPDL\AssociationRule\AssociationRule\bin\Debug\AssociationRule.exe
+E:\KPDL\AssociationRule\AssociationRule\bin\Debug\AssociationRule.pdb
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.exe
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.pdb
+E:\KPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.UpdateData.resources
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\bin\Debug\AssociationRule.exe.config
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\bin\Debug\AssociationRule.exe
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\bin\Debug\AssociationRule.pdb
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.AssemblyReference.cache
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRule.AssciationRule.resources
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRule.Properties.Resources.resources
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRule.UpdateData.resources
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.GenerateResource.cache
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.CoreCompileInputs.cache
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRule.exe
+C:\Users\T470p\Documents\Zalo Received Files\AssociationRule\AssociationRule\obj\Debug\AssociationRule.pdb
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\bin\Debug\AssociationRule.exe.config
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\bin\Debug\AssociationRule.exe
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\bin\Debug\AssociationRule.pdb
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.AssemblyReference.cache
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.AssciationRule.resources
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.Properties.Resources.resources
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.UpdateData.resources
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.GenerateResource.cache
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRuleApp.csproj.CoreCompileInputs.cache
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.exe
+D:\ThuatToanKPDL\AssociationRule\AssociationRule\obj\Debug\AssociationRule.pdb

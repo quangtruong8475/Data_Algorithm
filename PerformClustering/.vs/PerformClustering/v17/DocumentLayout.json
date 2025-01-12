@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KPDL\\PerformClustering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KPDL\\PerformClustering\\PerformClustering\\MainFromClusters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformClustering\\MainFromClusters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KPDL\\PerformClustering\\performclustering\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:performclustering\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KPDL\\PerformClustering\\performclustering\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:performclustering\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KPDL\\PerformClustering\\performclustering\\mainfromclusters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:performclustering\\mainfromclusters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KPDL\\PerformClustering\\performclustering\\drawpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:performclustering\\drawpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KPDL\\PerformClustering\\performclustering\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:performclustering\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KPDL\\PerformClustering\\performclustering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:performclustering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "E:\\KPDL\\PerformClustering\\PerformClustering\\Diem.cs",
+              "RelativeDocumentMoniker": "PerformClustering\\Diem.cs",
+              "ToolTip": "E:\\KPDL\\PerformClustering\\PerformClustering\\Diem.cs",
+              "RelativeToolTip": "PerformClustering\\Diem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:39:36.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphForm.cs",
+              "DocumentMoniker": "E:\\KPDL\\PerformClustering\\PerformClustering\\GraphForm.cs",
+              "RelativeDocumentMoniker": "PerformClustering\\GraphForm.cs",
+              "ToolTip": "E:\\KPDL\\PerformClustering\\PerformClustering\\GraphForm.cs",
+              "RelativeToolTip": "PerformClustering\\GraphForm.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAgwGAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:44:21.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainFromClusters.cs [Design]",
+              "DocumentMoniker": "E:\\KPDL\\PerformClustering\\PerformClustering\\MainFromClusters.cs",
+              "RelativeDocumentMoniker": "PerformClustering\\MainFromClusters.cs",
+              "ToolTip": "E:\\KPDL\\PerformClustering\\PerformClustering\\MainFromClusters.cs [Design]",
+              "RelativeToolTip": "PerformClustering\\MainFromClusters.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:47:06.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainFromClusters.cs",
+              "DocumentMoniker": "E:\\KPDL\\PerformClustering\\PerformClustering\\MainFromClusters.cs",
+              "RelativeDocumentMoniker": "PerformClustering\\MainFromClusters.cs",
+              "ToolTip": "E:\\KPDL\\PerformClustering\\PerformClustering\\MainFromClusters.cs",
+              "RelativeToolTip": "PerformClustering\\MainFromClusters.cs",
+              "ViewState": "AQIAAAUHAAAAAAAAAAAiwCQHAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:50:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrawPoints.cs [Design]",
+              "DocumentMoniker": "E:\\KPDL\\PerformClustering\\PerformClustering\\DrawPoints.cs",
+              "RelativeDocumentMoniker": "PerformClustering\\DrawPoints.cs",
+              "ToolTip": "E:\\KPDL\\PerformClustering\\PerformClustering\\DrawPoints.cs [Design]",
+              "RelativeToolTip": "PerformClustering\\DrawPoints.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:44:14.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphForm.cs [Design]",
+              "DocumentMoniker": "E:\\KPDL\\PerformClustering\\PerformClustering\\GraphForm.cs",
+              "RelativeDocumentMoniker": "PerformClustering\\GraphForm.cs",
+              "ToolTip": "E:\\KPDL\\PerformClustering\\PerformClustering\\GraphForm.cs [Design]",
+              "RelativeToolTip": "PerformClustering\\GraphForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:44:09.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KPDL\\PerformClustering\\PerformClustering\\Program.cs",
+              "RelativeDocumentMoniker": "PerformClustering\\Program.cs",
+              "ToolTip": "E:\\KPDL\\PerformClustering\\PerformClustering\\Program.cs",
+              "RelativeToolTip": "PerformClustering\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:49:59.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
