@@ -1,7 +1,6 @@
 # Data_Algorithm
-![image](https://github.com/user-attachments/assets/ef76d24e-008d-4bdc-a465-0c6f0ec099e3)
-![image](https://github.com/user-attachments/assets/df357910-e338-4bef-93a6-01c50e5c3ef5)
-![image](https://github.com/user-attachments/assets/a8819c67-ed4a-4473-b0c8-ddda1a3a88cf)
+![image](https://github.com/user-attachments/assets/ef76d24e-008d-4bdc-a465-0c6f0ec099e3) ![image](https://github.com/user-attachments/assets/df357910-e338-4bef-93a6-01c50e5c3ef5) ![image](https://github.com/user-attachments/assets/df357910-e338-4bef-93a6-01c50e5c3ef5)
+
 ## Algorithms used:
 Clustering (KMeans, Mean-Shift, DBScan)
 
